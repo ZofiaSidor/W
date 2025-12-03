@@ -1,0 +1,10 @@
+{
+  "API_HOST": "0.0.0.0",
+  "API_PORT": 8000,
+  "LLM_API_KEY": null,
+  "LLM_PROVIDER": "fallback",
+  "DEFAULT_LANGUAGE": "pl",
+  "XML_INPUT_DIR": "./xml_files",
+  "JSON_OUTPUT_DIR": "./data",
+  "DEBUG": false
+}
